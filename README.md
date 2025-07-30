@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Koi Cooks
 
-📍 **Saint Rose, LA** | 📧 [koicooks6@gmail.com](mailto:koicooks6@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/koi-cooks-940421294)
+📍 **Saint Rose, LA** | 📧 [koicooks5@gmail.com](mailto:koicooks5@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/koi-cooks-940421294)
 
 **Computer Science Student** @ Dillard University (2027) | **AI Educator** | **Emerging Tech Enthusiast**
 
@@ -40,18 +40,18 @@
 
 **Tech Mentor** | [Verizon Innovation Program](https://www.verizon.com/) | Summer 2024  
 ✔️ Trained 30+ students in Python and robotics  
-✔️ Created AR curriculum boosting engagement by 40%
+✔️ Created AR curriculum, boosting engagement by 40%
 
 **STEM Ambassador** | Dillard University | 2023-Present  
 ✔️ Lead campus tech demonstrations  
-✔️ Organize hackathons for AI social good projects
+✔️ Participated in organized hackathons for AI social good projects
 
 ---
 
 ## 📜 Certifications
-- [Meta AR Developer](https://www.coursera.org/professional-certificates/meta-ar-developer) (Coursera)
+- [Meta AR Developer](https://www.coursera.org/professional-certificates/meta-ar-developer) (Verizon)
 - AI & Robotics Educator (Verizon)
-- Python Programming (Codecademy)
+- Python Programming 
 
 ---
 
@@ -65,7 +65,7 @@
 ## 📫 Let's Connect!
 I'm always open to collaborating on tech education projects or discussing emerging technologies!
 
-[![Email](https://img.shields.io/badge/Email-koicooks6@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:koicooks6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-koicooks5@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:koicooks5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koi-cooks-940421294)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) *(optional)*
 
